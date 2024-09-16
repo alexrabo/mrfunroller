@@ -1,2 +1,3 @@
 Efficiently Processing Large MRF Files with JSON Schema and Python
 Handling large JSON files is often a challenging task, especially when working with Machine-Readable Files (MRF) in healthcare, which can span gigabytes in size. These files, rich in nested data, are essential for various applications but present significant challenges in processing due to their size. In this article, I will share my approach to processing large MRF files using JSON schema validation, Azure Durable Functions, and Python, while acknowledging the role ChatGPT played in helping me figure out the initial boilerplate code.
+This repository is an exploration into providing MRF parsing tools and more changes are to come.
