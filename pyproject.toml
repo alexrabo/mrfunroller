@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "mrfunroller"
+version = "0.1.0"
+description = ""
+authors = ["Alex O <alex_o@verion.net>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.114.2"
+uvicorn = "^0.30.6"
+ijson = "^3.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
